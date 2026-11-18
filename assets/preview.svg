@@ -63,12 +63,12 @@
     <g filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#378ADD"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">AgonPro AG</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Contoso Ltd.</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#e1f5ee"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
       <circle cx="285" cy="62" r="16" fill="url(#av1)"/>
-      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">YG</text>
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10565</text>
+      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">AB</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10001</text>
 
       <g transform="translate(20,90)">
         <rect width="52" height="22" rx="6" fill="#f5f4f1"/>
@@ -89,18 +89,18 @@
     <g transform="translate(345,0)" filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#378ADD"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">J. C. Fridlin Gewuerze AG</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Fabrikam Industries</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#e1f5ee"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
 
       <circle cx="248" cy="62" r="16" fill="url(#av3)" stroke="#ffffff" stroke-width="2"/>
-      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">MH</text>
+      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">EF</text>
       <circle cx="266" cy="62" r="16" fill="url(#av2)" stroke="#ffffff" stroke-width="2"/>
-      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">IB</text>
+      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">CD</text>
       <circle cx="284" cy="62" r="16" fill="url(#av1)" stroke="#ffffff" stroke-width="2"/>
-      <text x="284" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">UZ</text>
+      <text x="284" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">GH</text>
 
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10538</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10002</text>
 
       <g transform="translate(20,90)">
         <rect width="52" height="22" rx="6" fill="#f5f4f1"/>
@@ -121,12 +121,12 @@
     <g transform="translate(690,0)" filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#1D9E75"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">MDM Master Data Management</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Master Data Management</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#f1efe8"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#5f5e5a" text-anchor="middle" letter-spacing="0.5">PRIVATE</text>
       <circle cx="285" cy="62" r="16" fill="url(#av2)"/>
-      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">MH</text>
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">MDMMasterDataManagement</text>
+      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">EF</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">InternalDataGroup</text>
 
       <line x1="20" y1="170" x2="305" y2="170" stroke="#f1efe8"/>
       <text x="20" y="188" font-size="11" font-weight="500" fill="#0f6e56">Intern</text>
@@ -138,12 +138,12 @@
     <g transform="translate(1035,0)" filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#378ADD"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Gemeinde Risch Rotkreuz</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Northwind Traders</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#e1f5ee"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
       <circle cx="285" cy="62" r="16" fill="url(#av3)"/>
-      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">MH</text>
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">10480</text>
+      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">EF</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">10004</text>
 
       <g transform="translate(20,90)">
         <rect width="52" height="22" rx="6" fill="#f5f4f1"/>
@@ -167,12 +167,12 @@
     <g filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#EF9F27"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">BBB M365 Einfuehrung Baden</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Contoso M365 Rollout</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#e1f5ee"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
       <circle cx="285" cy="62" r="16" fill="url(#av2)"/>
-      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">IB</text>
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">P-0025181</text>
+      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">CD</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">P-0001234</text>
 
       <line x1="20" y1="170" x2="305" y2="170" stroke="#f1efe8"/>
       <text x="20" y="188" font-size="11" font-weight="500" fill="#854f0b">Projekt</text>
@@ -189,15 +189,15 @@
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
 
       <circle cx="230" cy="62" r="16" fill="url(#av3)" stroke="#ffffff" stroke-width="2"/>
-      <text x="230" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">MH</text>
+      <text x="230" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">EF</text>
       <circle cx="248" cy="62" r="16" fill="url(#av2)" stroke="#ffffff" stroke-width="2"/>
-      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">IB</text>
+      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">CD</text>
       <circle cx="266" cy="62" r="16" fill="url(#av1)" stroke="#ffffff" stroke-width="2"/>
-      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">YG</text>
+      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">AB</text>
       <circle cx="284" cy="62" r="16" fill="#f1efe8" stroke="#ffffff" stroke-width="2"/>
       <text x="284" y="66" font-size="11" font-weight="500" fill="#444441" text-anchor="middle">+2</text>
 
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">10000</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">10005</text>
 
       <g transform="translate(20,90)">
         <rect width="52" height="22" rx="6" fill="#f5f4f1"/>
@@ -218,12 +218,12 @@
     <g transform="translate(690,0)" filter="url(#shadow)">
       <rect width="325" height="200" rx="10" fill="#ffffff" stroke="#e1dfd8"/>
       <rect width="4" height="200" rx="10" fill="#378ADD"/>
-      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">VBL AG - Verkehrsbetriebe</text>
+      <text x="20" y="35" font-size="15" font-weight="500" fill="#242424">Adventure Works</text>
       <rect x="235" y="20" width="70" height="20" rx="10" fill="#e1f5ee"/>
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
       <circle cx="285" cy="62" r="16" fill="url(#av2)"/>
-      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">IB</text>
-      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10543</text>
+      <text x="285" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">CD</text>
+      <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">CUS-10003</text>
 
       <g transform="translate(20,90)">
         <rect width="52" height="22" rx="6" fill="#f5f4f1"/>
@@ -249,11 +249,11 @@
       <text x="270" y="34" font-size="10" font-weight="500" fill="#0f6e56" text-anchor="middle" letter-spacing="0.5">PUBLIC</text>
 
       <circle cx="248" cy="62" r="16" fill="url(#av4)" stroke="#ffffff" stroke-width="2"/>
-      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">IB</text>
+      <text x="248" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">CD</text>
       <circle cx="266" cy="62" r="16" fill="url(#av1)" stroke="#ffffff" stroke-width="2"/>
-      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">YG</text>
+      <text x="266" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">AB</text>
       <circle cx="284" cy="62" r="16" fill="url(#av5)" stroke="#ffffff" stroke-width="2"/>
-      <text x="284" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">MH</text>
+      <text x="284" y="66" font-size="10" font-weight="500" fill="#ffffff" text-anchor="middle">EF</text>
 
       <text x="20" y="62" font-size="11" fill="#888780" font-family="Consolas, monospace">training2026</text>
 
