@@ -2,7 +2,7 @@
 
 SharePoint Framework Webpart, das eine Workspaces-Liste als Kachelübersicht darstellt — mit Suche, Filter, Sortierung, Owner-Avatar-Stack mit Profilfotos und optionalen Deep-Links in externe Systeme (ERP, Rechnungen, PSA).
 
-![Vorschau](./assets/preview.png)
+<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/4bfd8501-6a7b-4174-9192-a024ad3320ef" />
 
 ## Features
 
