@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "workspace-tiles-web-part": {
+      "components": [{
+        "entrypoint": "./lib/webparts/workspaceTiles/WorkspaceTilesWebPart.js",
+        "manifest": "./src/webparts/workspaceTiles/WorkspaceTilesWebPart.manifest.json"
+      }]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WorkspaceTilesWebPartStrings": "lib/webparts/workspaceTiles/loc/{locale}.js"
+  }
+}

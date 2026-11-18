@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "a8f9c2e1-4b7d-4f3a-9c8e-1b2d3e4f5a6b",
+  "alias": "WorkspaceTilesWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab"],
+  "supportsThemeVariants": true,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Workspaces" },
+    "title": { "default": "Workspace Tiles" },
+    "description": { "default": "Stellt eine Workspace-SharePoint-Liste als Kacheluebersicht dar." },
+    "officeFabricIconFontName": "Tiles",
+    "properties": {
+      "siteUrl": "",
+      "listTitle": "Workspaces",
+      "erpBaseUrl": "",
+      "invoiceBaseUrl": "",
+      "psaBaseUrl": ""
+    }
+  }]
+}
